@@ -46,9 +46,7 @@ sql/
 ## 配套文章
 
 公众号版导读（写给读者看，思路为主）：
-https://github.com/liuy-byte/weixin-mp-articles
-
-仓库内对应文章：`20260526-JeecgBoot-v3.9.2-二开瘦身指南-3步删demo砍依赖.md`
+https://mp.weixin.qq.com/s/gvt7Qx7mJhbTnejoTw48Lg
 
 ## License
 
